@@ -1,0 +1,11 @@
+.error {
+  background-color: crimson;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.errMessage {
+  transform: translateY(-13px);
+}
