@@ -1,6 +1,7 @@
 # Description
 
 This is my first react project and I mannaged to learn basics of props, states, lifecycle methods and so on.
+
 This project consists of a web page which its main puropose is to tell you what season is.
 For this project I used [GEOLOCATION API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API) to determine the user's current position.
 
